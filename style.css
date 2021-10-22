@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+
+.greeting{
+  font-size:30px;
+  color: rgb(236, 127, 63);
+
+  text-align: center;
+}
+
+
+.greeting2{
+  font-size:35px;
+  color: rgb(45, 238, 122);
+
+  text-align: center;
+}
+
+.greeting3{
+  font-size:35px;
+  color: rgb(179, 97, 21);
+
+  text-align: center;
+}
+
+.title{
+  font-size:55px;
+  color: rgb(248, 10, 10);
+  
+  text-align: center;
+}
+
+.option{
+  font-size:30px;
+  color: rgb(1, 2, 2);
+
+  text-align: center;
+}
